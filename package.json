@@ -5,9 +5,7 @@
   "main": "server.js",
   "type": "module",
   "scripts": {
-    "start": "node server.js",
-    "server": "node server.js",
-    "postinstall": "npm install && npm rebuild"
+    "start": "node server.js"
   },
   "keywords": [],
   "author": "Anmol Ramani",
